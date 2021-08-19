@@ -86,7 +86,7 @@ Se qualquer uma das respostas for verdadeira, vale a pena você dar uma olhada n
 Porém, se quiser dar um passo à frente 🚀, vale a pena dar uma conferida.
 
 * [O que é REST ?](https://www.youtube.com/watch?v=S7MduKwvVGk)
-* [O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
+* [O essencial do Spring Boot versão 2](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
 
 ...
 
